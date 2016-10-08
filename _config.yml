@@ -56,13 +56,12 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "<typeout> GDG Cochin"
-eventDate: "September - November, 2016"
-typeoutTextValues: '"", "DevFest", "Codelab", "I/O Extended", "Droid"'
-typeoutFallback: "Season"
+heroTitle: "GDG Cochin <typeout>"
+eventDate: "Google Developers Group Cochin"
+typeoutTextValues: '"", "Android", "Chrome", "I/O Extended", "DevFest"'
+typeoutFallback: "Android"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
