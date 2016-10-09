@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2016"
+title: "GDG Cochin"
 email: "basilarackal@lmntrx.com"
-description: "GDG DevFest is a set of events all around the world"
+description: "Google Developers Group Cochin"
 baseurl: ""
 url: "https://gdgcochin.github.io"
 permalink: "/blog/:title"
@@ -20,17 +20,9 @@ googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdgcochin.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
-# Organizer Info
-organizerName: "GDG Basil Arackal"
-organizerAlternateName: "Google Developer Group Basil Arackal"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "basilarackal@lmntrx.com"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
-
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, Basil, Arackal"
-twitterAccount: "@DevFest"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers"
+twitterAccount: "@gdgcochin"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -56,7 +48,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG Cochin <typeout>"
+heroTitle: "GDG Cochin | <typeout>"
 eventDate: "Google Developers Group Cochin"
 typeoutTextValues: '"", "Android", "Chrome", "I/O Extended", "DevFest"'
 typeoutFallback: "Android"
@@ -89,18 +81,18 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Startup Village"
-eventLocationLink: ""
-eventStreetAddress: "Kalamassery"
-eventAddressLocality: "Kerala"
-eventAddressLocalityRegion: "Kerala"
+eventLocationName: "Conference Hall"
+eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventStreetAddress: "22 Teatral'na St"
+eventAddressLocality: "Lviv"
+eventAddressLocalityRegion: "Lvivska"
 eventPostalCode: "79000"
-eventAddressCountry: "India"
-eventStartTime: "2016-10-25T10:00"
+eventAddressCountry: "Ukraine"
+eventStartTime: "2014-10-25T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2016-10-25T20:00"
-eventPlaceCoordinates: "49.843237,24.028751"
-mapCenterCoordinates: "49.842537,24.025701"
+eventEndTime: "2014-10-25T20:00"
+eventPlaceCoordinates: "49.843237, 24.028751"
+mapCenterCoordinates: "49.842537, 24.025701"
 mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Venue Block
