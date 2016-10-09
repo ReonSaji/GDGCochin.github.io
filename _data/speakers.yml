@@ -1,29 +1,19 @@
 - 
   id: 3
-  name: "Sanjay"
-  surname: "Nediyara"
-  company: "Seive Inc."
-  title: "Community Manager"
-  bio: "Sanjay is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced community program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: SanjayNediyara.jpg
+  name: "Muhammed"
+  surname: "Shibin"
+  company: "Azx Technologies"
+  title: "CEO and Founder"
+  bio: "Shibin is an Android GDE and GDG organizer. Works as Android Developer at Azx Technologies. Co-Ordinator of GDG Cochin Chapter."
+  thumbnailUrl: MuhammedShibin.jpg
   rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/106046004645175854179/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/111588304397617531204/"}
-- 
+    - {name: "google-plus", link: "https://plus.google.com/102539632406680452684/about/"}
+    - {name: "twitter", link: "https://twitter.com/shibinazx"}
+-
   id: 4
-  name: "Ninto"
-  surname: "Anto"
-  company: "CodeWalker Solutions"
-  title: "Senior Android Developer & CoOrganizer of Google Developers Group Cochin chapter"
-  bio: '<p>android developer. Senior developer at CodeWalkerSolutions. Loves programming, learning technology and sharing. CoOrganizer of Google Developers Group Cochin chapter. Speaker. Always trying to share his knowledge. Big fan of android, stackoverflow, git.</p>'
-  thumbnailUrl: NintoAnto.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+NintoAntoK"}
-    - {name: "twitter", link: "https://twitter.com/flyinrhynoo"}
-    - {name: "github", link: "#"}
-- 
-  id: 5
   name: "Arya"
   surname: "Murali"
   company: "Walat"
@@ -38,16 +28,26 @@
     - {name: "google-plus", link: "https://plus.google.com/102849889695619658704/"}
     - {name: "twitter", link: "https://twitter.com/arya_murali_"}
 - 
-  id: 6
-  name: "Muhammed"
-  surname: "Shibin"
-  company: "Azx Technologies"
-  title: "CEO and Founder"
-  bio: "Shibin is an Android GDE and GDG organizer. Works as Android Developer at Azx Technologies. Co-Ordinator of GDG Cochin Chapter."
-  thumbnailUrl: MuhammedShibin.jpg
+  id: 5
+  name: "Ninto"
+  surname: "Anto"
+  company: "CodeWalker Solutions"
+  title: "Senior Android Developer & CoOrganizer of Google Developers Group Cochin chapter"
+  bio: '<p>android developer. Senior developer at CodeWalkerSolutions. Loves programming, learning technology and sharing. CoOrganizer of Google Developers Group Cochin chapter. Speaker. Always trying to share his knowledge. Big fan of android, stackoverflow, git.</p>'
+  thumbnailUrl: NintoAnto.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/106046004645175854179/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/102539632406680452684/about/"}
-    - {name: "twitter", link: "https://twitter.com/shibinazx"}
+    - {name: "google-plus", link: "https://plus.google.com/+NintoAntoK"}
+    - {name: "twitter", link: "https://twitter.com/flyinrhynoo"}
+    - {name: "github", link: "#"}
+- 
+  id: 6
+  name: "Sanjay"
+  surname: "Nediyara"
+  company: "Seive Inc."
+  title: "Community Manager"
+  bio: "Sanjay is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced community program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
+  thumbnailUrl: SanjayNediyara.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/111588304397617531204/"}
