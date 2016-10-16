@@ -73,12 +73,6 @@ statisticBlock:
 # Latest News Block
 latestNewsTitle: "Latest news"
 
-# Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Who's Behind This?"
-rockstarSpeakersButtonText: "See everyone"
-
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Conference Hall"
